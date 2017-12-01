@@ -1,0 +1,11 @@
+{
+  "name": "chiji",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node chiji.js"
+  },
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
